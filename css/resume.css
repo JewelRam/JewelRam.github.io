@@ -37,6 +37,9 @@ h1 {
 h2 {
   font-size: 3.5rem;
 }
+#band:hover {
+  transform: scale(1.5);
+}
 
 h3 {
   font-size: 2rem;
@@ -190,4 +193,10 @@ a {
 
 a:hover, a:focus, a:active {
   color: #2d2782;
+}
+#band:hover {
+  transform: scale(1.5);
+}
+#hair {
+  padding: 10px;
 }
